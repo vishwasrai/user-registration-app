@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<botdetect xmlns="https://captcha.com/schema/java" 
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="https://captcha.com/schema/java 
+            https://captcha.com/schema/java/botdetect-4.0.beta3.6.xsd">
+
+    <captchaStyles>
+        <captchaStyle>
+            <name>userSecurityCaptcha</name>
+            <userInputID>captchaCode</userInputID>
+            <codeStyle>ALPHA</codeStyle>
+            <helpLinkMode>IMAGE</helpLinkMode>
+        </captchaStyle>
+    </captchaStyles>
+
+</botdetect>
+
+
+
