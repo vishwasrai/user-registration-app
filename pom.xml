@@ -19,7 +19,7 @@
         <jstl.version>1.2</jstl.version>
         <servlet.version>3.1.0</servlet.version>
         <bd.version>4.0.beta3.6</bd.version>
-        <dbh2.version>1.4.187</dbh2.version>
+        <dbh2.version>2.0.206</dbh2.version>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <maven.compiler.plugin.version>3.8.0</maven.compiler.plugin.version>
